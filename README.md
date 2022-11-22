@@ -1,4 +1,4 @@
-# Comparacao-de-desempenho-de-indicadores-de-paises-com-dados-do-IBGE-IBGE
+# Dashboard: Comparacao de indicadores dos paises
 Dashboard com 4 países, comparando o seu desempenho nas áreas indicadas com o Brasil
 
 Projeto realizado em PowerBI
